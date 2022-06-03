@@ -1,0 +1,1 @@
+This week's task was to create a google books API search engine using restfulAPI and graphql on the apollo server.
